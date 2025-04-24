@@ -33,7 +33,7 @@ be converted.
 
 ## Prerequisities
 
-* JRE or JDK 7+
+* JRE or JDK 8+
 * Apache Maven 3+ (just in case you want to compile the application yourself)
 
 ## Compilation
